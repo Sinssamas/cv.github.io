@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(28, 28, 40);
+}
+.App{
+  color: aliceblue;
+  font: italic;
+  height: 700px;
+  width: 300px;
+  margin-top: 5%;
+  margin-left: 40%;
+  border: 2px solid black;
+  border-radius: 12%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(35, 35, 52);
+}
+.headerclass > p{
+  margin-top: -10px;
+}
+.headerclass > img{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 12%;
+}
